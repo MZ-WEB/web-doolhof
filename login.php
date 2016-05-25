@@ -58,7 +58,7 @@ if (isset($_SESSION['name']) && !isset($connexion_success))
   header('location: https://doolhof.mz-web.fr');
 }
 $description = 'Connexion';
-$keywords = 'compte, connexion seedbox';
+$keywords = 'compte, connexion';
 $title = 'Connexion';
 ?>
 <!DOCTYPE html>
